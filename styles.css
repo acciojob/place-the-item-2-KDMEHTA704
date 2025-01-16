@@ -8,18 +8,24 @@
 }
 
 .item{
+	display:flex;
+	text-wrap: wrap;
 	height:100px;
 	width:100px;
 	background-color:green;
 }
 
 .item1{
+	display:flex;
+	text-wrap: wrap;
 	height:100px;
 	width:100px;
 	background-color:red;
 }
 
 .item2{
+	display:flex;
+	text-wrap: wrap;
 	height:100px;
 	width:100px;
 	background-color:blue;
