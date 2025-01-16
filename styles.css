@@ -2,7 +2,7 @@
 /* Your CSS Code here. */
 .holder{
 	display:flex;
-	text-wrap: nowrap;
+	text-wrap: wrap;
 	justify-content:center;
 	align-items:center;
 }
